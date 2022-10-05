@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/neo-2-0", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/classen-ceramin-fliese-neo-vario-oelschiefer-642-cm-x-315-cm-neo-2-0-8706897-1.jpg":"\u002Fassets\u002Fimages\u002Fclassen-ceramin-fliese-neo-vario-oelschiefer-642-cm-x-315-cm-neo-2-0-8706897-1.webp"}}],fetch:{},mutations:void 0});
