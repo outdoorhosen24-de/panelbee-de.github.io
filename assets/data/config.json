@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "panelbee.de",
+    "hostname": "https://www.panelbee.de/",
+    "email": "panelbee.desurrealnetworks.io",
+    "organization": "panelbee.de",
+    "logoText": "Panelbee.de",
+    "title": "Paneele",
+    "subline": "Der Online Shop f\u00fcr Paneele",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "1607266",
+        "5055066",
+        "5055389",
+        "5766878",
+        "7773286",
+        "2098986"
+    ],
+    "winnerProducts": [
+        "2815405",
+        "7413495",
+        "5054937"
+    ],
+    "featuredCategories": [
+        "Dekor-Paneele",
+        "Dekor-Paneele",
+        "Zubeh\u00f6r f\u00fcr Paneele",
+        "Dekor-Paneele",
+        "Dekor-Paneele",
+        "Dekor-Paneele"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Paneele",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Paneele sind in der Regel aus Holz, Kunststoff oder Metall. Sie werden an die Wand oder an die Decke montiert und dienen als optische Trennwand zwischen den R\u00e4umen. Paneele k\u00f6nnen auch als Sichtschutz oder als Sonnenschutz eingesetzt werden.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Die besten Paneele in der Stadt",
+            "metaDescription": "Die besten Paneele f\u00fcr Ihr Zuhause finden Sie bei uns im Shop. Wir bieten Ihnen eine gro\u00dfe Auswahl an verschiedenen Paneele-Typen und - Designs.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Die besten Paneele f\u00fcr Ihr Zuhause",
+                    "text": "Die Paneele sind ein sehr beliebtes Material f\u00fcr die Innenausstattung von H\u00e4usern und Wohnungen. Sie sind vor allem f\u00fcr ihre Optik und ihre Vielseitigkeit bekannt. Paneele k\u00f6nnen aus verschiedenen Materialien hergestellt werden, wie zum Beispiel Holz, Kunststoff oder Metall. Sie sind in verschiedenen Farben, Formen und Gr\u00f6\u00dfen erh\u00e4ltlich und k\u00f6nnen somit individuell an die jeweilige Einrichtung angepasst werden.\n\nPaneele eignen sich sowohl f\u00fcr die Gestaltung von W\u00e4nden als auch von Decken. Sie k\u00f6nnen als Akzent verwendet werden, um einen Raum optisch aufzuwerten, oder als funktionelles Element, um zum Beispiel L\u00e4rm zu reduzieren. Paneele sind relativ einfach zu verarbeiten und k\u00f6nnen daher auch von Laien selbst angebracht werden.\n\nDie Nachteile von Paneele sind, dass sie im Vergleich zu anderen Materialien relativ empfindlich sind und daher leicht besch\u00e4digt werden k\u00f6nnen. Au\u00dferdem sind sie nicht immer ganz einfach zu entfernen, wenn man sie einmal angebracht hat.\n\nAlles in allem sind Paneele jedoch eine gute Wahl f\u00fcr die Innenausstattung, da sie vielseitig einsetzbar sind und einen Raum optisch aufwerten k\u00f6nnen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Der Paneele-Shop",
+            "metaDescription": "Der Shop bietet eine gro\u00dfe Auswahl an verschiedenen Paneele f\u00fcr jeden Bedarf. Die Paneele sind aus hochwertigen Materialien und sehr langlebig.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Hersteller von Paneele",
+            "metaDescription": "Hersteller von Paneele. Wir bieten hochwertige, langlebige und umweltfreundliche Produkte.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT-Paneele: Die beste Wahl f\u00fcr Ihre Wandgestaltung!",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine tolle $KATEGORIE. Hier findest du die besten Paneele f\u00fcr dein Zuhause.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Paneele im Test",
+        "defaultMetaDescription": "$KATEGORIE Paneele in gro\u00dfer Auswahl bei OBI entdecken. Jetzt online bestellen und schnell nach Hause liefern lassen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von hochwertigen Paneele. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Paneele f\u00fcr jeden Bedarf.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Paneele",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Paneele Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Paneele Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
