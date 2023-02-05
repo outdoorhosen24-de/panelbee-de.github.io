@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "panelbee.de",
     "hostname": "https://www.panelbee.de/",
     "email": "panelbee.de@surrealnetworks.io",
     "organization": "panelbee.de",
     "logoText": "Panelbee.de",
-    "title": "Paneele",
-    "subline": "Der Online Shop für Paneele",
+    "title": "Wandpaneele & Deckenpaneele",
+    "subline": "Der Online Shop für günstige Wand- und Deckenpaneele",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Paneele",
-        "featureText": "Die Paneele sind in der Regel aus Holz, Kunststoff oder Metall. Sie werden an die Wand oder an die Decke montiert und dienen als optische Trennwand zwischen den Räumen. Paneele können auch als Sichtschutz oder als Sonnenschutz eingesetzt werden.",
+        "featureText": "Herzlich willkommen! Unsere fleißigen Bienchen von panelbee.de halten etwas ganz Besonderes bereit - Eine riesige Auswahl an Paneelen! Ganz gleich, ob du nach Deckenpaneelen, Wandpaneelen oder nach einem Dekor-Paneel schaust, das Angebot an verschiedensten Farben, Materialien und Ausführungen machen dein Zuhause zu einem noch schönerem Ort. Auch das nötige Zubehör bieten wir dir in unserem Online-Shop an. Erfinde deine Vier Wände jetzt neu zum günstigen Preis in unserem Online-Shop.",
         "index": {
-            "title": "Die besten Paneele in der Stadt",
-            "metaDescription": "Die besten Paneele für Ihr Zuhause finden Sie bei uns im Shop. Wir bieten Ihnen eine große Auswahl an verschiedenen Paneele-Typen und - Designs.",
+            "title": "Wand- & Deckenpaneelen | Günstig bei panelbee.de",
+            "metaDescription": "Erkunde unsere große Auswahl an den verschiedensten Dekor-, Wand- und Deckenpaneelen. Mit Zubehör für Paneele an Wand und Decke für dein Zuhause. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Der Paneele-Shop",
-            "metaDescription": "Der Shop bietet eine große Auswahl an verschiedenen Paneele für jeden Bedarf. Die Paneele sind aus hochwertigen Materialien und sehr langlebig.",
+            "title": "Der günstige Shop für Wand- & Deckenpaneele",
+            "metaDescription": "Kaufe jetzt in unserem Shop die preiswerten Angebote an Dekor-, Wand- und Deckenpaneelen. Günstiges Zubehör für Paneele an Wand und Decke für dein Zuhause.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Hersteller von Paneele",
-            "metaDescription": "Hersteller von Paneele. Wir bieten hochwertige, langlebige und umweltfreundliche Produkte.",
+            "title": "Paneele in hochwertiger Ausführung",
+            "metaDescription": "Egal in welcher Farbe, aus welchem Material oder Ausführung - kaufe jetzt Qualität zum günstigen Preis von Classen, Parador, Neo 2.0 und Grosfillex.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT-Paneele: Die beste Wahl für Ihre Wandgestaltung!",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist eine tolle $KATEGORIE. Hier findest du die besten Paneele für dein Zuhause.",
+        "defaultTitle": "$PRODUKT | Paneele günstig bestellen",
+        "defaultMetaDescription": "Mit $PRODUKT Paneelen von $HERSTELLER findest du das Beste aus dem Bereich $KATEGORIE. Mache dein Zuhause mit unseren Qualitätsprodukten noch schöner.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Paneele im Test",
-        "defaultMetaDescription": "$KATEGORIE Paneele in großer Auswahl bei OBI entdecken. Jetzt online bestellen und schnell nach Hause liefern lassen.",
+        "defaultTitle": "$KATEGORIE | Schnell. Günstig. Einfach.",
+        "defaultMetaDescription": "Mit unserem Angebot an $KATEGORIE finden wir die Produkte die dein Zuhause noch schöner machen und dich mit einem Lächeln nach Hause kommen lassen. ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von hochwertigen Paneele. Wir bieten eine große Auswahl an verschiedenen Paneele für jeden Bedarf.",
+        "defaultTitle": "$HERSTELLER | Qualität & Design vereint",
+        "defaultMetaDescription": "$HERSTELLER ist einer der führenden Hersteller von hochwertigen Dekor-, Wand- und Deckenpaneelen. Gestalte dein Zuhause mit unseren preiswerten Angeboten neu. ",
         "defaultRobots": "index, follow",
         "brands": [
             {
